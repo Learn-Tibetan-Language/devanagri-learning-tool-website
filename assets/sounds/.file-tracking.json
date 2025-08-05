@@ -1,0 +1,1262 @@
+{
+  "speaker1": {
+    "files": {
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/अ.mp3": {
+        "size": 9328,
+        "mtime": "2025-07-22T19:51:17.637Z",
+        "hash": "c2cd03f9fbe8c1b2"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/अं.mp3": {
+        "size": 10755,
+        "mtime": "2025-07-22T19:54:50.821Z",
+        "hash": "1601624eb8f50269"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/अः.mp3": {
+        "size": 10443,
+        "mtime": "2025-07-22T19:55:00.542Z",
+        "hash": "974e66e85d99ee9c"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/आ.mp3": {
+        "size": 17475,
+        "mtime": "2025-07-22T19:57:42.507Z",
+        "hash": "84d7e9d640ccce06"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/इ.mp3": {
+        "size": 6460,
+        "mtime": "2025-07-22T19:51:46.092Z",
+        "hash": "5d4f8d9f2e11f8e1"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ई.mp3": {
+        "size": 17475,
+        "mtime": "2025-07-22T19:55:55.694Z",
+        "hash": "204489901e964d43"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/उ.mp3": {
+        "size": 7243,
+        "mtime": "2025-07-22T19:52:06.354Z",
+        "hash": "8f006d50577739c9"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ऊ.mp3": {
+        "size": 20211,
+        "mtime": "2025-07-22T19:56:08.632Z",
+        "hash": "fc547c3f6d808fed"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ऋ.mp3": {
+        "size": 10454,
+        "mtime": "2025-07-22T19:52:45.437Z",
+        "hash": "1a73c624e00b226a"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ऌ.mp3": {
+        "size": 11315,
+        "mtime": "2025-07-22T19:53:06.015Z",
+        "hash": "01b4e6be98267652"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ए.mp3": {
+        "size": 17523,
+        "mtime": "2025-07-22T19:54:07.510Z",
+        "hash": "ee40ba862419b934"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ऐ.mp3": {
+        "size": 14595,
+        "mtime": "2025-07-22T19:54:16.797Z",
+        "hash": "d9e1d1b44f54835d"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ओ.mp3": {
+        "size": 18771,
+        "mtime": "2025-07-22T19:54:27.907Z",
+        "hash": "1a86b195e4d6fcbf"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/औ.mp3": {
+        "size": 14475,
+        "mtime": "2025-07-22T19:54:40.751Z",
+        "hash": "2bfa6d135842506c"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/क.mp3": {
+        "size": 10471,
+        "mtime": "2025-07-22T16:09:30.795Z",
+        "hash": "7f7eb9553b206c78"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/क्ष.mp3": {
+        "size": 16707,
+        "mtime": "2025-07-25T01:35:55.697Z",
+        "hash": "209b5b74e4c0817e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ख.mp3": {
+        "size": 12920,
+        "mtime": "2025-07-22T16:09:30.797Z",
+        "hash": "ac779c761d1eee03"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ग.mp3": {
+        "size": 16158,
+        "mtime": "2025-07-22T16:09:30.799Z",
+        "hash": "1a4ecf84d5ffa743"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/घ.mp3": {
+        "size": 14514,
+        "mtime": "2025-07-22T16:09:30.800Z",
+        "hash": "a875763f3e06b4b1"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ङ.mp3": {
+        "size": 14772,
+        "mtime": "2025-07-22T16:09:30.801Z",
+        "hash": "10bc58c6ca7d1cc7"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/च.mp3": {
+        "size": 14879,
+        "mtime": "2025-07-22T16:09:30.802Z",
+        "hash": "b25a3e607cfed7a8"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/छ.mp3": {
+        "size": 14771,
+        "mtime": "2025-07-22T16:09:30.804Z",
+        "hash": "2d79007574c7a921"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ज.mp3": {
+        "size": 17201,
+        "mtime": "2025-07-22T16:09:30.805Z",
+        "hash": "de6542ae8d40c6c1"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ज्ञ.mp3": {
+        "size": 14979,
+        "mtime": "2025-07-25T01:36:43.108Z",
+        "hash": "44fba309d5c49707"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/झ.mp3": {
+        "size": 15813,
+        "mtime": "2025-07-22T16:09:30.807Z",
+        "hash": "c27b595c873181d8"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ञ.mp3": {
+        "size": 15742,
+        "mtime": "2025-07-22T16:09:30.808Z",
+        "hash": "cfd01bd79f79f564"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ट.mp3": {
+        "size": 13705,
+        "mtime": "2025-07-22T16:09:30.809Z",
+        "hash": "9bd1feee38dbea68"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ठ.mp3": {
+        "size": 11852,
+        "mtime": "2025-07-22T16:09:30.810Z",
+        "hash": "2f73293819487ce3"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ड.mp3": {
+        "size": 15011,
+        "mtime": "2025-07-22T16:09:30.812Z",
+        "hash": "74449d0fe34d1e2c"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ढ.mp3": {
+        "size": 14748,
+        "mtime": "2025-07-22T16:09:30.812Z",
+        "hash": "679fe7fcd249cc87"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ण.mp3": {
+        "size": 16212,
+        "mtime": "2025-07-22T16:09:30.814Z",
+        "hash": "bf9796d75b97f393"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/त.mp3": {
+        "size": 17934,
+        "mtime": "2025-07-22T16:09:30.815Z",
+        "hash": "3c8816804cc06192"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/त्र.mp3": {
+        "size": 9411,
+        "mtime": "2025-07-25T01:36:10.495Z",
+        "hash": "bf67e538499a794e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/थ.mp3": {
+        "size": 14228,
+        "mtime": "2025-07-22T16:09:30.816Z",
+        "hash": "2680abd75e932c09"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/द.mp3": {
+        "size": 17461,
+        "mtime": "2025-07-22T16:09:30.817Z",
+        "hash": "756e37b5ce09cee8"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ध.mp3": {
+        "size": 18272,
+        "mtime": "2025-07-22T16:09:30.818Z",
+        "hash": "fb80fc562ee1f5cd"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/न.mp3": {
+        "size": 16551,
+        "mtime": "2025-07-22T16:09:30.819Z",
+        "hash": "5ddd000d88950ced"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/प.mp3": {
+        "size": 14696,
+        "mtime": "2025-07-22T16:09:30.820Z",
+        "hash": "93bd5b4abaa7b1f2"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/फ.mp3": {
+        "size": 14125,
+        "mtime": "2025-07-22T16:09:30.821Z",
+        "hash": "f099459d0bfc661f"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ब.mp3": {
+        "size": 16471,
+        "mtime": "2025-07-22T16:09:30.823Z",
+        "hash": "e9776895fb1d0ea6"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/भ.mp3": {
+        "size": 17047,
+        "mtime": "2025-07-22T16:09:30.824Z",
+        "hash": "1aa4bc5068e0b691"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/म.mp3": {
+        "size": 15118,
+        "mtime": "2025-07-22T16:09:30.825Z",
+        "hash": "1b8e940997f1c9f4"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/य.mp3": {
+        "size": 12193,
+        "mtime": "2025-07-22T16:09:30.825Z",
+        "hash": "95fea129359aca8c"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/र.mp3": {
+        "size": 18376,
+        "mtime": "2025-07-22T16:09:30.826Z",
+        "hash": "ce9bd10778173a85"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ल.mp3": {
+        "size": 15058,
+        "mtime": "2025-07-22T16:09:30.827Z",
+        "hash": "f5656cccee8ee82f"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/व.mp3": {
+        "size": 13708,
+        "mtime": "2025-07-22T16:09:30.829Z",
+        "hash": "2a757c3c520af1f0"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/श.mp3": {
+        "size": 16447,
+        "mtime": "2025-07-22T16:09:30.829Z",
+        "hash": "bf6da04c26e7a789"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ष.mp3": {
+        "size": 17046,
+        "mtime": "2025-07-22T16:09:30.830Z",
+        "hash": "3e2546b584a46aca"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/स.mp3": {
+        "size": 19572,
+        "mtime": "2025-07-22T16:09:30.831Z",
+        "hash": "94932a562339c307"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ह.mp3": {
+        "size": 16521,
+        "mtime": "2025-07-22T16:09:30.832Z",
+        "hash": "fb76e949f444f603"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ॠ.mp3": {
+        "size": 18771,
+        "mtime": "2025-07-22T19:56:19.840Z",
+        "hash": "07a2e5c60912d09a"
+      }
+    },
+    "hash": "7e8b13f916f6",
+    "lastGenerated": "2025-07-25T16:33:30.214Z"
+  },
+  "speaker2": {
+    "files": {
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/अ.mp3": {
+        "size": 11954,
+        "mtime": "2025-07-19T19:17:45.810Z",
+        "hash": "ea93750bcc77cfe9"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/आ.mp3": {
+        "size": 12581,
+        "mtime": "2025-07-19T19:17:45.669Z",
+        "hash": "b33336fe2daa6702"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/इ.mp3": {
+        "size": 11015,
+        "mtime": "2025-07-19T19:17:46.464Z",
+        "hash": "52f5055d1d940270"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ई.mp3": {
+        "size": 11954,
+        "mtime": "2025-07-19T19:17:46.419Z",
+        "hash": "b83b14490614b622"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/उ.mp3": {
+        "size": 8820,
+        "mtime": "2025-07-19T19:17:47.732Z",
+        "hash": "fa2f67183e4bd31e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ऊ.mp3": {
+        "size": 11328,
+        "mtime": "2025-07-19T19:17:47.687Z",
+        "hash": "31aa37225b48355a"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ऋ.mp3": {
+        "size": 13105,
+        "mtime": "2025-07-19T19:17:47.318Z",
+        "hash": "cba7ba473e926936"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ए.mp3": {
+        "size": 11537,
+        "mtime": "2025-07-19T19:17:46.235Z",
+        "hash": "28e49742de9bb904"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ऐ.mp3": {
+        "size": 12581,
+        "mtime": "2025-07-19T19:17:45.718Z",
+        "hash": "867c07b5a74ccfb9"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ओ.mp3": {
+        "size": 12581,
+        "mtime": "2025-07-19T19:17:47.120Z",
+        "hash": "04e3e020e3563ec5"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/औ.mp3": {
+        "size": 12581,
+        "mtime": "2025-07-19T19:17:45.764Z",
+        "hash": "b382107746a707f6"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/क.mp3": {
+        "size": 17284,
+        "mtime": "2025-07-19T19:17:46.603Z",
+        "hash": "35829ee6fe0bcaa8"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ख.mp3": {
+        "size": 21986,
+        "mtime": "2025-07-19T19:17:46.650Z",
+        "hash": "cc000d4287da153a"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ग.mp3": {
+        "size": 11328,
+        "mtime": "2025-07-19T19:17:46.281Z",
+        "hash": "dde4d755abbcf19b"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/घ.mp3": {
+        "size": 18329,
+        "mtime": "2025-07-19T19:17:46.327Z",
+        "hash": "2e0d3dafa8897c74"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ङ.mp3": {
+        "size": 8061,
+        "mtime": "2025-07-22T20:10:36.759Z",
+        "hash": "b2558c2eb61ebea6"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/च.mp3": {
+        "size": 13208,
+        "mtime": "2025-07-19T19:17:45.949Z",
+        "hash": "ebc32380ceefab7b"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/छ.mp3": {
+        "size": 13835,
+        "mtime": "2025-07-19T19:17:45.997Z",
+        "hash": "b38eb792fdf76a41"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ज.mp3": {
+        "size": 11954,
+        "mtime": "2025-07-19T19:17:46.510Z",
+        "hash": "a3a60c0657d5d22b"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/झ.mp3": {
+        "size": 13208,
+        "mtime": "2025-07-19T19:17:46.556Z",
+        "hash": "7fde0fe0d4f4be45"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ञ.mp3": {
+        "size": 8142,
+        "mtime": "2025-07-22T20:10:42.846Z",
+        "hash": "376e6c2834987030"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ट.mp3": {
+        "size": 10701,
+        "mtime": "2025-07-19T19:17:47.503Z",
+        "hash": "c100f193c1b17b20"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ठ.mp3": {
+        "size": 11954,
+        "mtime": "2025-07-19T19:17:47.549Z",
+        "hash": "b09fece6fc1ce09b"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ड.mp3": {
+        "size": 11954,
+        "mtime": "2025-07-19T19:17:46.050Z",
+        "hash": "4b2c75243c3b2c90"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ढ.mp3": {
+        "size": 11954,
+        "mtime": "2025-07-19T19:17:46.096Z",
+        "hash": "6ef078b1b681d6b5"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ण.mp3": {
+        "size": 15717,
+        "mtime": "2025-07-19T19:17:47.074Z",
+        "hash": "7c8356b3d5595fbc"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/त.mp3": {
+        "size": 12581,
+        "mtime": "2025-07-19T19:17:47.641Z",
+        "hash": "81df76d8a3096384"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/थ.mp3": {
+        "size": 13208,
+        "mtime": "2025-07-19T19:17:47.595Z",
+        "hash": "ab429ed0872f3d2a"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/द.mp3": {
+        "size": 11328,
+        "mtime": "2025-07-19T19:17:46.188Z",
+        "hash": "1be311be0f007f8a"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ध.mp3": {
+        "size": 12581,
+        "mtime": "2025-07-19T19:17:46.142Z",
+        "hash": "22976f70426df7b5"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/न.mp3": {
+        "size": 17807,
+        "mtime": "2025-07-19T19:17:46.792Z",
+        "hash": "a382e6eed0d29dbe"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/प.mp3": {
+        "size": 14150,
+        "mtime": "2025-07-19T19:17:47.176Z",
+        "hash": "7221b1c1051e1eda"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/फ.mp3": {
+        "size": 11954,
+        "mtime": "2025-07-19T19:17:47.224Z",
+        "hash": "9886fc95a24b2fc4"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ब.mp3": {
+        "size": 11954,
+        "mtime": "2025-07-19T19:17:45.856Z",
+        "hash": "7387edcba9c69844"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/भ.mp3": {
+        "size": 13835,
+        "mtime": "2025-07-19T19:17:45.903Z",
+        "hash": "cf97eac735ea1251"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/म.mp3": {
+        "size": 17284,
+        "mtime": "2025-07-19T19:17:46.746Z",
+        "hash": "3b2d14bcaa7eea8b"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/य.mp3": {
+        "size": 14462,
+        "mtime": "2025-07-19T19:17:47.850Z",
+        "hash": "a422a30d7841c281"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/र.mp3": {
+        "size": 13208,
+        "mtime": "2025-07-19T19:17:47.273Z",
+        "hash": "088cf48a0de50d03"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ल.mp3": {
+        "size": 14462,
+        "mtime": "2025-07-19T19:17:46.697Z",
+        "hash": "2d5fe844a4740606"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/व.mp3": {
+        "size": 13835,
+        "mtime": "2025-07-19T19:17:47.796Z",
+        "hash": "ec5d473b726fdeb8"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/श.mp3": {
+        "size": 15089,
+        "mtime": "2025-07-19T19:17:47.457Z",
+        "hash": "c8a1ae3ae4c750d2"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ष.mp3": {
+        "size": 15716,
+        "mtime": "2025-07-19T19:17:47.411Z",
+        "hash": "36e0583a4f4bd30c"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/स.mp3": {
+        "size": 13835,
+        "mtime": "2025-07-19T19:17:47.365Z",
+        "hash": "89567e474cf7ee67"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ह.mp3": {
+        "size": 13208,
+        "mtime": "2025-07-19T19:17:46.373Z",
+        "hash": "3cc78f8e62d5de1b"
+      }
+    },
+    "hash": "9625dcfb1aa5",
+    "lastGenerated": "2025-07-25T16:33:34.734Z"
+  },
+  "speaker3": {
+    "files": {
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/अ.mp3": {
+        "size": 4955,
+        "mtime": "2025-07-23T14:13:36.573Z",
+        "hash": "9389eeaa7643ac3f"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/आ.mp3": {
+        "size": 7981,
+        "mtime": "2025-07-23T14:13:36.647Z",
+        "hash": "7c0f47ea663b3a14"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/इ.mp3": {
+        "size": 4745,
+        "mtime": "2025-07-23T14:13:36.720Z",
+        "hash": "5b16e6b397c7e6e1"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ई.mp3": {
+        "size": 5632,
+        "mtime": "2025-07-23T14:13:36.798Z",
+        "hash": "db9ce28f6f8ed21a"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/उ.mp3": {
+        "size": 3832,
+        "mtime": "2025-07-23T14:13:36.876Z",
+        "hash": "6a377819a86f9bf8"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ऊ.mp3": {
+        "size": 6729,
+        "mtime": "2025-07-23T14:13:36.948Z",
+        "hash": "13c450fa7b657d4d"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ऋ.mp3": {
+        "size": 5529,
+        "mtime": "2025-07-23T14:13:37.032Z",
+        "hash": "039e468a543bd859"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ऌ.mp3": {
+        "size": 7459,
+        "mtime": "2025-07-23T14:13:37.109Z",
+        "hash": "d05d2889a4a8d95e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ए.mp3": {
+        "size": 7091,
+        "mtime": "2025-07-23T14:13:37.191Z",
+        "hash": "7c7a7a99feb83272"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ऐ.mp3": {
+        "size": 6468,
+        "mtime": "2025-07-23T14:13:37.269Z",
+        "hash": "ad613e4801f1cfa2"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ओ.mp3": {
+        "size": 5789,
+        "mtime": "2025-07-23T14:13:37.349Z",
+        "hash": "43a0dd32b8db0bdb"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/औ.mp3": {
+        "size": 5633,
+        "mtime": "2025-07-23T14:13:37.438Z",
+        "hash": "2ff6308c227e2a99"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/क.mp3": {
+        "size": 5215,
+        "mtime": "2025-07-23T14:13:37.525Z",
+        "hash": "ed2c63a928311753"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ख.mp3": {
+        "size": 5452,
+        "mtime": "2025-07-23T14:13:37.614Z",
+        "hash": "b804d04634bb5823"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ग.mp3": {
+        "size": 6310,
+        "mtime": "2025-07-23T14:13:37.699Z",
+        "hash": "d62d1829ac0993a7"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/घ.mp3": {
+        "size": 6364,
+        "mtime": "2025-07-23T14:13:37.780Z",
+        "hash": "4ec4bd748ad193a4"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ङ.mp3": {
+        "size": 6624,
+        "mtime": "2025-07-23T14:13:37.866Z",
+        "hash": "e8aa2fc641dca463"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/च.mp3": {
+        "size": 5372,
+        "mtime": "2025-07-23T14:13:37.955Z",
+        "hash": "be6af8c0cc9bc703"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/छ.mp3": {
+        "size": 5867,
+        "mtime": "2025-07-23T14:13:38.049Z",
+        "hash": "a33c6dd066a90b5f"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ज.mp3": {
+        "size": 6259,
+        "mtime": "2025-07-23T14:13:38.140Z",
+        "hash": "edb341299b452705"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/झ.mp3": {
+        "size": 7197,
+        "mtime": "2025-07-23T14:13:38.231Z",
+        "hash": "bc55dfa06cffa906"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ञ.mp3": {
+        "size": 5789,
+        "mtime": "2025-07-23T14:13:38.325Z",
+        "hash": "fcd9747aa3eb03d0"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ट.mp3": {
+        "size": 5682,
+        "mtime": "2025-07-23T14:13:38.417Z",
+        "hash": "a1573d8ffc73af78"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ठ.mp3": {
+        "size": 6416,
+        "mtime": "2025-07-23T14:13:38.513Z",
+        "hash": "e391812c5552a28f"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ड.mp3": {
+        "size": 6727,
+        "mtime": "2025-07-23T14:13:38.611Z",
+        "hash": "9f5cb0ea14f231d3"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ढ.mp3": {
+        "size": 6624,
+        "mtime": "2025-07-23T14:13:38.702Z",
+        "hash": "91c094c87aeb029f"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ण.mp3": {
+        "size": 8006,
+        "mtime": "2025-07-23T14:13:38.800Z",
+        "hash": "b3090fae69338f7b"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/प.mp3": {
+        "size": 5944,
+        "mtime": "2025-07-23T14:13:38.899Z",
+        "hash": "53b7c3084551b415"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/फ.mp3": {
+        "size": 6257,
+        "mtime": "2025-07-23T14:13:38.995Z",
+        "hash": "875262d1cabef3e4"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ब.mp3": {
+        "size": 6467,
+        "mtime": "2025-07-23T14:13:39.092Z",
+        "hash": "8dbf8da890a04b4e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/भ.mp3": {
+        "size": 6964,
+        "mtime": "2025-07-23T14:13:39.191Z",
+        "hash": "99eb8368cc23d8bb"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/म.mp3": {
+        "size": 7223,
+        "mtime": "2025-07-23T14:13:39.291Z",
+        "hash": "c97580b1bc260d70"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/य.mp3": {
+        "size": 6573,
+        "mtime": "2025-07-23T14:13:39.393Z",
+        "hash": "69499d0b4882294e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/र.mp3": {
+        "size": 6702,
+        "mtime": "2025-07-23T14:13:39.491Z",
+        "hash": "9fc674f96e1dcd3d"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ल.mp3": {
+        "size": 7197,
+        "mtime": "2025-07-23T14:13:39.601Z",
+        "hash": "6acab95d42bfb7a1"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/व.mp3": {
+        "size": 6937,
+        "mtime": "2025-07-23T14:13:39.708Z",
+        "hash": "c781b4d65b960fdf"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/श.mp3": {
+        "size": 7405,
+        "mtime": "2025-07-23T14:13:39.812Z",
+        "hash": "dccde6cedf807c27"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ष.mp3": {
+        "size": 6833,
+        "mtime": "2025-07-23T14:13:39.920Z",
+        "hash": "553caf8ac02c5f89"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/स.mp3": {
+        "size": 6831,
+        "mtime": "2025-07-23T14:13:40.027Z",
+        "hash": "896ad841c1f01092"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ह.mp3": {
+        "size": 8263,
+        "mtime": "2025-07-23T14:13:40.140Z",
+        "hash": "447c89f7a7fe981f"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ॠ.mp3": {
+        "size": 8710,
+        "mtime": "2025-07-23T14:13:40.251Z",
+        "hash": "270f0b276f359423"
+      }
+    },
+    "hash": "c739e490b79e",
+    "lastGenerated": "2025-07-25T16:33:38.633Z"
+  },
+  "speaker4": {
+    "files": {
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/All Consonants.mp3": {
+        "size": 1145283,
+        "mtime": "2025-07-25T01:33:55.911Z",
+        "hash": "9d6044194ffc6d01"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/अ.mp3": {
+        "size": 9363,
+        "mtime": "2025-07-25T01:39:43.501Z",
+        "hash": "6947093f78aabc3d"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/अं.mp3": {
+        "size": 9435,
+        "mtime": "2025-07-25T01:42:03.279Z",
+        "hash": "a30de9be969866af"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/अः.mp3": {
+        "size": 12483,
+        "mtime": "2025-07-25T01:42:17.709Z",
+        "hash": "4777aa3919410301"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/आ.mp3": {
+        "size": 15075,
+        "mtime": "2025-07-25T01:39:55.367Z",
+        "hash": "d6c4682afd366477"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/इ.mp3": {
+        "size": 8835,
+        "mtime": "2025-07-25T01:40:07.508Z",
+        "hash": "2025db7e780c7430"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ई.mp3": {
+        "size": 14835,
+        "mtime": "2025-07-25T01:40:16.396Z",
+        "hash": "9de1d10228301801"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/उ.mp3": {
+        "size": 8883,
+        "mtime": "2025-07-25T01:40:27.048Z",
+        "hash": "7f5d9d96a4ab58b2"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ऊ.mp3": {
+        "size": 14019,
+        "mtime": "2025-07-25T01:40:36.043Z",
+        "hash": "077e3f830e5f988e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ऋ.mp3": {
+        "size": 9747,
+        "mtime": "2025-07-25T01:40:46.272Z",
+        "hash": "4492bd3424e58ee4"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ए.mp3": {
+        "size": 9459,
+        "mtime": "2025-07-25T01:41:07.371Z",
+        "hash": "d384e7092efd26a0"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ऐ.mp3": {
+        "size": 13827,
+        "mtime": "2025-07-25T01:41:20.551Z",
+        "hash": "97d098a7a0380ece"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ओ.mp3": {
+        "size": 7563,
+        "mtime": "2025-07-25T01:41:32.381Z",
+        "hash": "5e5b16b04d9b50d0"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/औ.mp3": {
+        "size": 14211,
+        "mtime": "2025-07-25T01:41:45.200Z",
+        "hash": "923029258799ed4d"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/क.mp3": {
+        "size": 6339,
+        "mtime": "2025-07-25T01:20:44.094Z",
+        "hash": "ce7c25899ae7d85d"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/क्ष.mp3": {
+        "size": 16707,
+        "mtime": "2025-07-25T01:35:55.697Z",
+        "hash": "209b5b74e4c0817e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ख.mp3": {
+        "size": 12579,
+        "mtime": "2025-07-25T01:21:07.398Z",
+        "hash": "762654cfdb296637"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ग.mp3": {
+        "size": 18771,
+        "mtime": "2025-07-25T01:21:30.116Z",
+        "hash": "7743cbaf19fcb80c"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/घ.mp3": {
+        "size": 20259,
+        "mtime": "2025-07-25T01:21:46.617Z",
+        "hash": "22720582bf54b8bf"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ङ.mp3": {
+        "size": 16419,
+        "mtime": "2025-07-25T01:21:56.777Z",
+        "hash": "b307ae76016ae9a4"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/च.mp3": {
+        "size": 10947,
+        "mtime": "2025-07-25T01:23:17.879Z",
+        "hash": "532ae107e374ef25"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/छ.mp3": {
+        "size": 15171,
+        "mtime": "2025-07-25T01:23:30.490Z",
+        "hash": "ff07f416144afb82"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ज.mp3": {
+        "size": 17667,
+        "mtime": "2025-07-25T01:23:43.504Z",
+        "hash": "8110cce2d868edef"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ज्ञ.mp3": {
+        "size": 14979,
+        "mtime": "2025-07-25T01:36:43.108Z",
+        "hash": "44fba309d5c49707"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/झ.mp3": {
+        "size": 19011,
+        "mtime": "2025-07-25T01:23:52.410Z",
+        "hash": "a7d0a2d4c8c5ea2d"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ञ.mp3": {
+        "size": 13443,
+        "mtime": "2025-07-25T01:24:02.008Z",
+        "hash": "9318772ffb22bccd"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ट.mp3": {
+        "size": 10851,
+        "mtime": "2025-07-25T01:25:57.424Z",
+        "hash": "87aa6c859c003882"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ठ.mp3": {
+        "size": 12483,
+        "mtime": "2025-07-25T01:26:12.709Z",
+        "hash": "a8e3eb59b92dbec6"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ड.mp3": {
+        "size": 16611,
+        "mtime": "2025-07-25T01:26:21.840Z",
+        "hash": "220c9bfa1a88f318"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ढ.mp3": {
+        "size": 15075,
+        "mtime": "2025-07-25T01:26:42.862Z",
+        "hash": "36fdb4661632a70e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ण.mp3": {
+        "size": 18435,
+        "mtime": "2025-07-25T01:46:34.044Z",
+        "hash": "8d67fe43e7e88748"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/त.mp3": {
+        "size": 10851,
+        "mtime": "2025-07-25T01:27:58.865Z",
+        "hash": "7fc9aef88c76ea0d"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/त्र.mp3": {
+        "size": 9411,
+        "mtime": "2025-07-25T01:36:10.495Z",
+        "hash": "bf67e538499a794e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/थ.mp3": {
+        "size": 20355,
+        "mtime": "2025-07-25T01:28:10.639Z",
+        "hash": "61770059d7d0d98a"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/द.mp3": {
+        "size": 15939,
+        "mtime": "2025-07-25T01:28:22.265Z",
+        "hash": "7feef8687ceca92c"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ध.mp3": {
+        "size": 23427,
+        "mtime": "2025-07-25T01:28:30.389Z",
+        "hash": "038c1669737d0bad"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/न.mp3": {
+        "size": 17955,
+        "mtime": "2025-07-25T01:29:04.840Z",
+        "hash": "13c9a6af9b9c1074"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/प.mp3": {
+        "size": 15651,
+        "mtime": "2025-07-25T01:29:45.867Z",
+        "hash": "21e9be9d89d5c80e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/फ.mp3": {
+        "size": 18963,
+        "mtime": "2025-07-25T01:47:27.189Z",
+        "hash": "a2d406dd6aa4e6a2"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ब.mp3": {
+        "size": 12771,
+        "mtime": "2025-07-25T01:48:03.160Z",
+        "hash": "d9b5aeaa778e557e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/भ.mp3": {
+        "size": 17763,
+        "mtime": "2025-07-25T01:48:15.096Z",
+        "hash": "8d528cc13cc96fcb"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/म.mp3": {
+        "size": 10851,
+        "mtime": "2025-07-25T01:47:47.241Z",
+        "hash": "3ee194ed8bb06e62"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/य.mp3": {
+        "size": 21315,
+        "mtime": "2025-07-25T01:31:16.631Z",
+        "hash": "06ba3b55f4164c1a"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/र.mp3": {
+        "size": 18915,
+        "mtime": "2025-07-25T01:31:25.197Z",
+        "hash": "6f23c505e56e4522"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ल.mp3": {
+        "size": 17115,
+        "mtime": "2025-07-25T01:31:34.201Z",
+        "hash": "1b61ee0b098c5539"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/व.mp3": {
+        "size": 16611,
+        "mtime": "2025-07-25T01:31:45.309Z",
+        "hash": "96795f3ee930a781"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/श.mp3": {
+        "size": 16707,
+        "mtime": "2025-07-25T01:32:11.920Z",
+        "hash": "8d6e9abc599f9489"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ष.mp3": {
+        "size": 18675,
+        "mtime": "2025-07-25T01:32:19.387Z",
+        "hash": "5ecf2a1701890343"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/स.mp3": {
+        "size": 16899,
+        "mtime": "2025-07-25T01:48:56.861Z",
+        "hash": "6c97d61f1a1e2323"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ह.mp3": {
+        "size": 12003,
+        "mtime": "2025-07-25T01:49:14.727Z",
+        "hash": "53518e2452d89b8e"
+      }
+    },
+    "hash": "4ba83fbdc474",
+    "lastGenerated": "2025-07-25T16:33:42.313Z"
+  },
+  "speaker5": {
+    "files": {
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/अ.mp3": {
+        "size": 7011,
+        "mtime": "2025-07-25T16:15:48.078Z",
+        "hash": "90b1b686f478e9c7"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/अं.mp3": {
+        "size": 9411,
+        "mtime": "2025-07-25T16:15:48.055Z",
+        "hash": "f4f50b7d23d6cb69"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/अः.mp3": {
+        "size": 9843,
+        "mtime": "2025-07-25T16:15:48.075Z",
+        "hash": "58a9d10923cf595c"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/आ.mp3": {
+        "size": 9171,
+        "mtime": "2025-07-25T16:15:48.075Z",
+        "hash": "746f0f04a5a73d95"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/इ.mp3": {
+        "size": 7635,
+        "mtime": "2025-07-25T16:15:48.090Z",
+        "hash": "4e25c4111629f114"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ई.mp3": {
+        "size": 8931,
+        "mtime": "2025-07-25T16:15:48.072Z",
+        "hash": "c414896c46d89d50"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/उ.mp3": {
+        "size": 8067,
+        "mtime": "2025-07-25T16:15:48.107Z",
+        "hash": "b542d13970afb8ea"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ऊ.mp3": {
+        "size": 9891,
+        "mtime": "2025-07-25T16:15:48.116Z",
+        "hash": "44133af5f2974685"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ऋ.mp3": {
+        "size": 8547,
+        "mtime": "2025-07-25T16:15:48.504Z",
+        "hash": "ad74436ff78fb1af"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ऌ.mp3": {
+        "size": 9555,
+        "mtime": "2025-07-25T16:15:48.506Z",
+        "hash": "8b6c97d708d32775"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ए.mp3": {
+        "size": 12531,
+        "mtime": "2025-07-25T16:15:48.557Z",
+        "hash": "4f641165060f2720"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ऐ.mp3": {
+        "size": 13059,
+        "mtime": "2025-07-25T16:15:48.506Z",
+        "hash": "2e475e01eb4c8cda"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ओ.mp3": {
+        "size": 12483,
+        "mtime": "2025-07-25T16:15:48.507Z",
+        "hash": "757137cf2e46e580"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/औ.mp3": {
+        "size": 12771,
+        "mtime": "2025-07-25T16:15:48.554Z",
+        "hash": "4e9feb1089ac385c"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/क.mp3": {
+        "size": 12003,
+        "mtime": "2025-07-25T16:15:48.592Z",
+        "hash": "8a8089b2faee3e33"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ख.mp3": {
+        "size": 11811,
+        "mtime": "2025-07-25T16:15:48.624Z",
+        "hash": "01d35ec54db16281"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ख2.mp3": {
+        "size": 12195,
+        "mtime": "2025-07-25T16:15:48.598Z",
+        "hash": "74dfee65f8a69b03"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ग.mp3": {
+        "size": 13155,
+        "mtime": "2025-07-25T16:15:48.616Z",
+        "hash": "6c76f48b97c645f0"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ग2.mp3": {
+        "size": 13923,
+        "mtime": "2025-07-25T16:15:48.607Z",
+        "hash": "f13ebef1e314ff15"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/घ.mp3": {
+        "size": 13347,
+        "mtime": "2025-07-25T16:15:48.713Z",
+        "hash": "e3e9e596c79d7bea"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/घ2.mp3": {
+        "size": 14499,
+        "mtime": "2025-07-25T16:15:48.736Z",
+        "hash": "fa7f31042ece9e2f"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ङ.mp3": {
+        "size": 16018,
+        "mtime": "2025-07-25T16:15:48.727Z",
+        "hash": "4a691919715b0007"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/च.mp3": {
+        "size": 14211,
+        "mtime": "2025-07-25T16:15:48.703Z",
+        "hash": "295c0c72c1eb650c"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/च2.mp3": {
+        "size": 12675,
+        "mtime": "2025-07-25T16:15:48.702Z",
+        "hash": "2355610d2540f2dd"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/छ.mp3": {
+        "size": 10419,
+        "mtime": "2025-07-25T16:15:48.714Z",
+        "hash": "8e9aa966aa253664"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/छ2.mp3": {
+        "size": 10419,
+        "mtime": "2025-07-25T16:15:48.759Z",
+        "hash": "dc3dcdf1d75361a4"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ज.mp3": {
+        "size": 15459,
+        "mtime": "2025-07-25T16:15:48.755Z",
+        "hash": "93ddc68e9fbfdb5e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ज2.mp3": {
+        "size": 12771,
+        "mtime": "2025-07-25T16:15:48.837Z",
+        "hash": "a8da596bce51589b"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/झ.mp3": {
+        "size": 14211,
+        "mtime": "2025-07-25T16:15:48.834Z",
+        "hash": "c51fd266f75ec379"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/झ2.mp3": {
+        "size": 13923,
+        "mtime": "2025-07-25T16:15:48.885Z",
+        "hash": "906f854875e3c0f7"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ञ.mp3": {
+        "size": 16707,
+        "mtime": "2025-07-25T16:15:48.844Z",
+        "hash": "c47de67f18ed6c3c"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ट.mp3": {
+        "size": 10611,
+        "mtime": "2025-07-25T16:15:48.921Z",
+        "hash": "ff294447e3009a1e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ट2.mp3": {
+        "size": 10755,
+        "mtime": "2025-07-25T16:15:48.912Z",
+        "hash": "afc9c5a2a7333e0c"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ठ.mp3": {
+        "size": 10275,
+        "mtime": "2025-07-25T16:15:48.868Z",
+        "hash": "c0e9d0fe311d7e74"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ठ2.mp3": {
+        "size": 12003,
+        "mtime": "2025-07-25T16:15:48.874Z",
+        "hash": "47ee49bb2e3c55e9"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ड.mp3": {
+        "size": 15507,
+        "mtime": "2025-07-25T16:15:48.945Z",
+        "hash": "9a7a625a97eb026a"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ड2.mp3": {
+        "size": 13827,
+        "mtime": "2025-07-25T16:15:48.952Z",
+        "hash": "f7e864781c538430"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ढ.mp3": {
+        "size": 13251,
+        "mtime": "2025-07-25T16:15:48.967Z",
+        "hash": "3f3c13ce4539d402"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ढ2.mp3": {
+        "size": 15363,
+        "mtime": "2025-07-25T16:15:49.000Z",
+        "hash": "df368b13af0418ed"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ण.mp3": {
+        "size": 14307,
+        "mtime": "2025-07-25T16:15:49.002Z",
+        "hash": "a74f767dab4f77a5"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/त.mp3": {
+        "size": 12867,
+        "mtime": "2025-07-25T16:15:49.063Z",
+        "hash": "670b5abfe7f8f4cc"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/त2.mp3": {
+        "size": 11907,
+        "mtime": "2025-07-25T16:15:49.097Z",
+        "hash": "20abcb226a09b1f6"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/थ.mp3": {
+        "size": 8259,
+        "mtime": "2025-07-25T16:15:49.048Z",
+        "hash": "a4df6224beffee0f"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/थ2.mp3": {
+        "size": 12003,
+        "mtime": "2025-07-25T16:15:49.049Z",
+        "hash": "398bd0fd3e94b75e"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/द.mp3": {
+        "size": 16419,
+        "mtime": "2025-07-25T16:15:49.056Z",
+        "hash": "2639ae5a54368463"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/द2.mp3": {
+        "size": 14595,
+        "mtime": "2025-07-25T16:15:49.087Z",
+        "hash": "6936b7fe45f02a0b"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ध.mp3": {
+        "size": 14883,
+        "mtime": "2025-07-25T16:15:49.123Z",
+        "hash": "1ae02c9fbd8b76cc"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ध2.mp3": {
+        "size": 14787,
+        "mtime": "2025-07-25T16:15:49.123Z",
+        "hash": "4358cd824ad54bde"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/न.mp3": {
+        "size": 21747,
+        "mtime": "2025-07-25T16:15:49.224Z",
+        "hash": "ec94ff70d382e4bc"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/प.mp3": {
+        "size": 9915,
+        "mtime": "2025-07-25T16:15:49.158Z",
+        "hash": "69ba454038ab6dd7"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/प2.mp3": {
+        "size": 10371,
+        "mtime": "2025-07-25T16:15:49.183Z",
+        "hash": "e0a74635f9cb1ede"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/फ.mp3": {
+        "size": 7299,
+        "mtime": "2025-07-25T16:15:49.200Z",
+        "hash": "8573de7cd9cc6ea8"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/फ2.mp3": {
+        "size": 11955,
+        "mtime": "2025-07-25T16:15:49.196Z",
+        "hash": "97d11aaae423c987"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ब.mp3": {
+        "size": 13443,
+        "mtime": "2025-07-25T16:15:49.259Z",
+        "hash": "a8816a1bdadd0270"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ब2.mp3": {
+        "size": 13635,
+        "mtime": "2025-07-25T16:15:49.239Z",
+        "hash": "4b35dfc241ade7c6"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/भ.mp3": {
+        "size": 10179,
+        "mtime": "2025-07-25T16:15:49.240Z",
+        "hash": "45270b1d2b8bf062"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/भ2.mp3": {
+        "size": 13923,
+        "mtime": "2025-07-25T16:15:49.266Z",
+        "hash": "93ad7819288de214"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/म.mp3": {
+        "size": 11907,
+        "mtime": "2025-07-25T16:15:49.288Z",
+        "hash": "3e8c7b35d28de0ec"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ॠ.mp3": {
+        "size": 11907,
+        "mtime": "2025-07-25T16:15:48.498Z",
+        "hash": "fdabbcc5e120ab24"
+      },
+      "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ॡ.mp3": {
+        "size": 14355,
+        "mtime": "2025-07-25T16:15:48.558Z",
+        "hash": "82275f8838f2ac97"
+      }
+    },
+    "hash": "b699459ce1ba",
+    "lastGenerated": "2025-07-25T16:33:46.722Z"
+  }
+}
