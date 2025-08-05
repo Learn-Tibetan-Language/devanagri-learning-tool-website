@@ -55,6 +55,59 @@
         "त्र",
         "ज्ञ"
       ],
+      "soundFilePaths": {
+        "अ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/अ.wav",
+        "आ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/आ.wav",
+        "इ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/इ.wav",
+        "ई": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ई.wav",
+        "उ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/उ.wav",
+        "ऊ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ऊ.wav",
+        "ऋ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ऋ.wav",
+        "ॠ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ॠ.wav",
+        "ऌ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ऌ.wav",
+        "ए": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ए.wav",
+        "ऐ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ऐ.wav",
+        "ओ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ओ.wav",
+        "औ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/औ.wav",
+        "अं": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/अं.wav",
+        "अः": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/अः.wav",
+        "क": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/क.wav",
+        "ख": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ख.wav",
+        "ग": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ग.wav",
+        "घ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/घ.wav",
+        "ङ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ङ.wav",
+        "च": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/च.wav",
+        "छ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/छ.wav",
+        "ज": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ज.wav",
+        "झ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/झ.wav",
+        "ञ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ञ.wav",
+        "ट": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ट.wav",
+        "ठ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ठ.wav",
+        "ड": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ड.wav",
+        "ढ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ढ.wav",
+        "ण": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ण.wav",
+        "त": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/त.wav",
+        "थ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/थ.wav",
+        "द": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/द.wav",
+        "ध": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ध.wav",
+        "न": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/न.wav",
+        "प": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/प.wav",
+        "फ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/फ.wav",
+        "ब": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ब.wav",
+        "भ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/भ.wav",
+        "म": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/म.wav",
+        "य": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/य.wav",
+        "र": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/र.wav",
+        "ल": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ल.wav",
+        "व": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/व.wav",
+        "श": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/श.wav",
+        "ष": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ष.wav",
+        "स": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/स.wav",
+        "ह": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ह.wav",
+        "क्ष": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/क्ष.wav",
+        "त्र": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/त्र.wav",
+        "ज्ञ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1/ज्ञ.wav"
+      },
       "completionRate": 100,
       "totalSounds": 51,
       "missingSounds": 0,
@@ -112,7 +165,7 @@
         "ह": 1,
         "क्ष": 1,
         "त्र": 1,
-        "ज्ञ": 1
+        "ज्ञ": 4
       }
     },
     "speaker2": {
@@ -163,6 +216,52 @@
         "स",
         "ह"
       ],
+      "soundFilePaths": {
+        "अ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/अ.mp3",
+        "आ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/आ.mp3",
+        "इ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/इ.mp3",
+        "ई": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ई.mp3",
+        "उ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/उ.mp3",
+        "ऊ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ऊ.mp3",
+        "ऋ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ऋ.mp3",
+        "ए": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ए.mp3",
+        "ऐ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ऐ.mp3",
+        "ओ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ओ.mp3",
+        "औ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/औ.mp3",
+        "क": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/क.mp3",
+        "ख": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ख.mp3",
+        "ग": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ग.mp3",
+        "घ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/घ.mp3",
+        "ङ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ङ.mp3",
+        "च": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/च.mp3",
+        "छ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/छ.mp3",
+        "ज": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ज.mp3",
+        "झ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/झ.mp3",
+        "ञ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ञ.mp3",
+        "ट": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ट.mp3",
+        "ठ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ठ.mp3",
+        "ड": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ड.mp3",
+        "ढ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ढ.mp3",
+        "ण": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ण.mp3",
+        "त": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/त.mp3",
+        "थ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/थ.mp3",
+        "द": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/द.mp3",
+        "ध": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ध.mp3",
+        "न": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/न.mp3",
+        "प": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/प.mp3",
+        "फ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/फ.mp3",
+        "ब": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ब.mp3",
+        "भ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/भ.mp3",
+        "म": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/म.mp3",
+        "य": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/य.mp3",
+        "र": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/र.mp3",
+        "ल": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ल.mp3",
+        "व": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/व.mp3",
+        "श": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/श.mp3",
+        "ष": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ष.mp3",
+        "स": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/स.mp3",
+        "ह": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2/ह.mp3"
+      },
       "completionRate": 86.3,
       "totalSounds": 44,
       "missingSounds": 7,
@@ -247,6 +346,11 @@
         "ड",
         "ढ",
         "ण",
+        "त",
+        "थ",
+        "द",
+        "ध",
+        "न",
         "प",
         "फ",
         "ब",
@@ -261,9 +365,57 @@
         "स",
         "ह"
       ],
-      "completionRate": 80.4,
-      "totalSounds": 41,
-      "missingSounds": 10,
+      "soundFilePaths": {
+        "अ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/अ.mp3",
+        "आ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/आ.mp3",
+        "इ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/इ.mp3",
+        "ई": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ई.mp3",
+        "उ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/उ.mp3",
+        "ऊ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ऊ.mp3",
+        "ऋ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ऋ.mp3",
+        "ॠ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ॠ.mp3",
+        "ऌ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ऌ.mp3",
+        "ए": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ए.mp3",
+        "ऐ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ऐ.mp3",
+        "ओ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ओ.mp3",
+        "औ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/औ.mp3",
+        "क": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/क.mp3",
+        "ख": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ख.mp3",
+        "ग": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ग.mp3",
+        "घ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/घ.mp3",
+        "ङ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ङ.mp3",
+        "च": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/च.mp3",
+        "छ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/छ.mp3",
+        "ज": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ज.mp3",
+        "झ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/झ.mp3",
+        "ञ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ञ.mp3",
+        "ट": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ट.mp3",
+        "ठ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ठ.mp3",
+        "ड": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ड.mp3",
+        "ढ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ढ.mp3",
+        "ण": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ण.mp3",
+        "त": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/त.mp3",
+        "थ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/थ.mp3",
+        "द": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/द.mp3",
+        "ध": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ध.mp3",
+        "न": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/न.mp3",
+        "प": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/प.mp3",
+        "फ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/फ.mp3",
+        "ब": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ब.mp3",
+        "भ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/भ.mp3",
+        "म": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/म.mp3",
+        "य": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/य.mp3",
+        "र": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/र.mp3",
+        "ल": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ल.mp3",
+        "व": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/व.mp3",
+        "श": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/श.mp3",
+        "ष": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ष.mp3",
+        "स": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/स.mp3",
+        "ह": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3/ह.mp3"
+      },
+      "completionRate": 90.2,
+      "totalSounds": 46,
+      "missingSounds": 5,
       "isComplete": false,
       "spriteFile": "speaker3-sprite.mp3",
       "spriteData": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3-sprite.json",
@@ -296,6 +448,11 @@
         "ड": 1,
         "ढ": 1,
         "ण": 1,
+        "त": 1,
+        "थ": 1,
+        "द": 1,
+        "ध": 1,
+        "न": 1,
         "प": 1,
         "फ": 1,
         "ब": 1,
@@ -364,6 +521,57 @@
         "त्र",
         "ज्ञ"
       ],
+      "soundFilePaths": {
+        "अ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/अ.mp3",
+        "आ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/आ.mp3",
+        "इ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/इ.mp3",
+        "ई": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ई.mp3",
+        "उ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/उ.mp3",
+        "ऊ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ऊ.mp3",
+        "ऋ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ऋ.mp3",
+        "ए": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ए.mp3",
+        "ऐ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ऐ.mp3",
+        "ओ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ओ.mp3",
+        "औ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/औ.mp3",
+        "अं": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/अं.mp3",
+        "अः": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/अः.mp3",
+        "क": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/क.mp3",
+        "ख": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ख.mp3",
+        "ग": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ग.mp3",
+        "घ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/घ.mp3",
+        "ङ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ङ.mp3",
+        "च": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/च.mp3",
+        "छ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/छ.mp3",
+        "ज": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ज.mp3",
+        "झ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/झ.mp3",
+        "ञ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ञ.mp3",
+        "ट": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ट.mp3",
+        "ठ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ठ.mp3",
+        "ड": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ड.mp3",
+        "ढ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ढ.mp3",
+        "ण": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ण.mp3",
+        "त": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/त.mp3",
+        "थ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/थ.mp3",
+        "द": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/द.mp3",
+        "ध": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ध.mp3",
+        "न": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/न.mp3",
+        "प": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/प.mp3",
+        "फ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/फ.mp3",
+        "ब": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ब.mp3",
+        "भ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/भ.mp3",
+        "म": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/म.mp3",
+        "य": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/य.mp3",
+        "र": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/र.mp3",
+        "ल": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ल.mp3",
+        "व": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/व.mp3",
+        "श": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/श.mp3",
+        "ष": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ष.mp3",
+        "स": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/स.mp3",
+        "ह": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ह.mp3",
+        "क्ष": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/क्ष.mp3",
+        "त्र": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/त्र.mp3",
+        "ज्ञ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4/ज्ञ.mp3"
+      },
       "completionRate": 96.1,
       "totalSounds": 49,
       "missingSounds": 2,
@@ -466,6 +674,48 @@
         "भ",
         "म"
       ],
+      "soundFilePaths": {
+        "अ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/अ.mp3",
+        "आ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/आ.mp3",
+        "इ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/इ.mp3",
+        "ई": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ई.mp3",
+        "उ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/उ.mp3",
+        "ऊ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ऊ.mp3",
+        "ऋ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ऋ.mp3",
+        "ॠ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ॠ.mp3",
+        "ऌ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ऌ.mp3",
+        "ए": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ए.mp3",
+        "ऐ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ऐ.mp3",
+        "ओ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ओ.mp3",
+        "औ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/औ.mp3",
+        "अं": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/अं.mp3",
+        "अः": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/अः.mp3",
+        "क": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/क.mp3",
+        "ख": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ख.mp3",
+        "ग": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ग.mp3",
+        "घ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/घ.mp3",
+        "ङ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ङ.mp3",
+        "च": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/च.mp3",
+        "छ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/छ.mp3",
+        "ज": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ज.mp3",
+        "झ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/झ.mp3",
+        "ञ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ña.mp3",
+        "ट": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ट.mp3",
+        "ठ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ठ.mp3",
+        "ड": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ड.mp3",
+        "ढ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ढ.mp3",
+        "ण": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ण.mp3",
+        "त": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/त.mp3",
+        "थ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/थ.mp3",
+        "द": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/द.mp3",
+        "ध": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ध.mp3",
+        "न": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/न.mp3",
+        "प": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/प.mp3",
+        "फ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/फ.mp3",
+        "ब": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/ब.mp3",
+        "भ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/भ.mp3",
+        "म": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5/म.mp3"
+      },
       "completionRate": 78.4,
       "totalSounds": 40,
       "missingSounds": 11,
@@ -497,7 +747,6 @@
         "छ": 2,
         "ज": 2,
         "झ": 2,
-        "ञ": 1,
         "ट": 2,
         "ठ": 2,
         "ड": 2,
@@ -514,6 +763,174 @@
         "भ": 2,
         "म": 1
       }
+    },
+    "speaker6": {
+      "name": "speaker6",
+      "sounds": [
+        "अ",
+        "आ",
+        "इ",
+        "ई",
+        "उ",
+        "ऊ",
+        "ऋ",
+        "ॠ",
+        "ऌ",
+        "ए",
+        "ऐ",
+        "ओ",
+        "औ",
+        "अं",
+        "अः",
+        "क",
+        "ख",
+        "ग",
+        "घ",
+        "ङ",
+        "च",
+        "छ",
+        "ज",
+        "झ",
+        "ञ",
+        "ट",
+        "ठ",
+        "ड",
+        "ढ",
+        "ण",
+        "त",
+        "थ",
+        "द",
+        "ध",
+        "न",
+        "प",
+        "फ",
+        "ब",
+        "भ",
+        "म",
+        "य",
+        "र",
+        "ल",
+        "व",
+        "श",
+        "ष",
+        "स",
+        "ह",
+        "क्ष",
+        "त्र",
+        "ज्ञ"
+      ],
+      "soundFilePaths": {
+        "अ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/अ.wav",
+        "आ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/आ.wav",
+        "इ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/इ.wav",
+        "ई": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ई.wav",
+        "उ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/उ.wav",
+        "ऊ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ऊ.wav",
+        "ऋ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ऋ.wav",
+        "ॠ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ॠ.wav",
+        "ऌ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ऌ.wav",
+        "ए": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ए.wav",
+        "ऐ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ऐ.wav",
+        "ओ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ओ.wav",
+        "औ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/औ.wav",
+        "अं": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/अं.wav",
+        "अः": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/अः.wav",
+        "क": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/क.wav",
+        "ख": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ख.wav",
+        "ग": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ग.wav",
+        "घ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/घ.wav",
+        "ङ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ङ.wav",
+        "च": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/च.wav",
+        "छ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/छ.wav",
+        "ज": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ज.wav",
+        "झ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/झ.wav",
+        "ञ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ञ.wav",
+        "ट": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ट.wav",
+        "ठ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ठ.wav",
+        "ड": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ड.wav",
+        "ढ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ढ.wav",
+        "ण": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ण.wav",
+        "त": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/त.wav",
+        "थ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/थ.wav",
+        "द": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/द.wav",
+        "ध": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ध.wav",
+        "न": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/न.wav",
+        "प": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/प.wav",
+        "फ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/फ.wav",
+        "ब": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ब.wav",
+        "भ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/भ.wav",
+        "म": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/म.wav",
+        "य": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/य.wav",
+        "र": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/र.wav",
+        "ल": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ल.wav",
+        "व": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/व.wav",
+        "श": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/श.wav",
+        "ष": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ष.wav",
+        "स": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/स.wav",
+        "ह": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ह.wav",
+        "क्ष": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/क्ष.wav",
+        "त्र": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/त्र.wav",
+        "ज्ञ": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6/ज्ञ.wav"
+      },
+      "completionRate": 100,
+      "totalSounds": 51,
+      "missingSounds": 0,
+      "isComplete": true,
+      "spriteFile": "speaker6-sprite.mp3",
+      "spriteData": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6-sprite.json",
+      "soundVersions": {
+        "अ": 1,
+        "आ": 1,
+        "इ": 1,
+        "ई": 1,
+        "उ": 1,
+        "ऊ": 1,
+        "ऋ": 1,
+        "ॠ": 1,
+        "ऌ": 1,
+        "ए": 1,
+        "ऐ": 1,
+        "ओ": 1,
+        "औ": 1,
+        "अं": 1,
+        "अः": 1,
+        "क": 1,
+        "ख": 1,
+        "ग": 1,
+        "घ": 1,
+        "ङ": 1,
+        "च": 1,
+        "छ": 1,
+        "ज": 1,
+        "झ": 1,
+        "ञ": 1,
+        "ट": 1,
+        "ठ": 1,
+        "ड": 1,
+        "ढ": 1,
+        "ण": 1,
+        "त": 1,
+        "थ": 1,
+        "द": 1,
+        "ध": 1,
+        "न": 1,
+        "प": 1,
+        "फ": 1,
+        "ब": 1,
+        "भ": 1,
+        "म": 1,
+        "य": 1,
+        "र": 1,
+        "ल": 1,
+        "व": 1,
+        "श": 1,
+        "ष": 1,
+        "स": 1,
+        "ह": 1,
+        "क्ष": 1,
+        "त्र": 1,
+        "ज्ञ": 1
+      }
     }
   },
   "defaultSpeaker": "speaker1",
@@ -522,12 +939,13 @@
     "speaker2",
     "speaker3",
     "speaker4",
-    "speaker5"
+    "speaker5",
+    "speaker6"
   ],
-  "lastUpdated": "2025-07-25T16:33:51.934Z",
+  "lastUpdated": "2025-08-01T07:41:15.522Z",
   "auditResults": {
-    "totalSpeakers": 5,
-    "completeSpeakers": 5,
+    "totalSpeakers": 6,
+    "completeSpeakers": 6,
     "completionThreshold": 70,
     "bestSpeaker": "speaker1",
     "bestCompletionRate": 100
@@ -536,12 +954,12 @@
     "speaker1": {
       "src": "speaker1-sprite.mp3",
       "spriteData": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker1-sprite.json",
-      "totalSounds": 51,
-      "totalDuration": 72.70925170068027,
+      "totalSounds": 54,
+      "totalDuration": 73.32882086167797,
       "sprite": {
         "अ": [
           0,
-          842
+          650
         ],
         "आ": [
           1200,
@@ -549,11 +967,11 @@
         ],
         "इ": [
           3400,
-          534
+          486
         ],
         "ई": [
           4600,
-          1558
+          1519
         ],
         "उ": [
           6800,
@@ -561,7 +979,7 @@
         ],
         "ऊ": [
           8000,
-          1749
+          1569
         ],
         "ऋ": [
           10200,
@@ -573,15 +991,15 @@
         ],
         "ऌ": [
           13600,
-          823
+          688
         ],
         "ए": [
           14800,
-          1723
+          1339
         ],
         "ऐ": [
           17000,
-          1311
+          1159
         ],
         "ओ": [
           19200,
@@ -601,147 +1019,159 @@
         ],
         "क": [
           26000,
-          751
+          601
         ],
         "ख": [
           27200,
-          840
+          743
         ],
         "ग": [
           28400,
-          950
+          853
         ],
         "घ": [
           29600,
-          880
+          866
         ],
         "ङ": [
           30800,
-          960
+          831
         ],
         "च": [
           32000,
-          880
+          783
         ],
         "छ": [
           33200,
-          910
+          830
         ],
         "ज": [
           34400,
-          1040
+          869
         ],
         "झ": [
-          36600,
-          1000
+          35600,
+          994
         ],
         "ञ": [
-          37800,
-          850
+          36800,
+          834
         ],
         "ट": [
-          39000,
+          38000,
           750
         ],
         "ठ": [
-          40200,
-          763
+          39200,
+          743
         ],
         "ड": [
-          41400,
+          40400,
           790
         ],
         "ढ": [
-          42600,
-          880
+          41600,
+          832
         ],
         "ण": [
-          43800,
-          850
+          42800,
+          778
         ],
         "त": [
-          45000,
-          950
+          44000,
+          674
         ],
         "थ": [
-          46200,
-          910
+          45200,
+          745
         ],
         "द": [
-          47400,
-          960
+          46400,
+          858
         ],
         "ध": [
-          48600,
-          1150
+          47600,
+          890
         ],
         "न": [
-          50800,
-          950
+          48800,
+          763
         ],
         "प": [
-          52000,
-          780
+          50000,
+          677
         ],
         "फ": [
-          53200,
-          850
+          51200,
+          816
         ],
         "ब": [
-          54400,
-          920
+          52400,
+          815
         ],
         "भ": [
-          55600,
-          1040
+          53600,
+          857
         ],
         "म": [
-          57800,
-          910
+          54800,
+          768
         ],
         "य": [
-          59000,
+          56000,
           710
         ],
         "र": [
-          60200,
-          990
+          57200,
+          959
         ],
         "ल": [
-          61400,
-          940
+          58400,
+          834
         ],
         "व": [
-          62600,
-          820
+          59600,
+          814
         ],
         "श": [
-          63800,
-          870
+          60800,
+          802
         ],
         "ष": [
-          65000,
-          910
+          62000,
+          894
         ],
         "स": [
-          66200,
-          1210
+          63200,
+          1016
         ],
         "ह": [
-          68400,
-          950
+          65400,
+          872
         ],
         "क्ष": [
-          69600,
-          811
+          66600,
+          768
         ],
         "त्र": [
-          70800,
-          468
+          67800,
+          695
         ],
         "ज्ञ": [
-          72000,
-          709
+          69000,
+          817
+        ],
+        "ज्ञ2": [
+          70200,
+          775
+        ],
+        "ज्ञ3": [
+          71400,
+          825
+        ],
+        "ज्ञ4": [
+          72600,
+          729
         ]
       }
     },
@@ -749,7 +1179,7 @@
       "src": "speaker2-sprite.mp3",
       "spriteData": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker2-sprite.json",
       "totalSounds": 44,
-      "totalDuration": 54.09632653061223,
+      "totalDuration": 53.096371882086125,
       "sprite": {
         "अ": [
           0,
@@ -769,7 +1199,7 @@
         ],
         "उ": [
           4800,
-          313
+          314
         ],
         "ऊ": [
           6000,
@@ -797,134 +1227,134 @@
         ],
         "क": [
           13200,
-          784
+          755
         ],
         "ख": [
           14400,
-          1019
+          963
         ],
         "ग": [
-          16600,
+          15600,
           418
         ],
         "घ": [
-          17800,
+          16800,
           836
         ],
         "ङ": [
-          19000,
+          18000,
           1084
         ],
         "च": [
-          21200,
+          20200,
           496
         ],
         "छ": [
-          22400,
+          21400,
           522
         ],
         "ज": [
-          23600,
+          22600,
           444
         ],
         "झ": [
-          24800,
+          23800,
           496
         ],
         "ञ": [
-          26000,
+          25000,
           906
         ],
         "ट": [
-          27200,
+          26200,
           392
         ],
         "ठ": [
-          28400,
+          27400,
           444
         ],
         "ड": [
-          29600,
+          28600,
           444
         ],
         "ढ": [
-          30800,
+          29800,
           444
         ],
         "ण": [
-          32000,
+          31000,
           705
         ],
         "त": [
-          33200,
+          32200,
           470
         ],
         "थ": [
-          34400,
+          33400,
           496
         ],
         "द": [
-          35600,
+          34600,
           418
         ],
         "ध": [
-          36800,
+          35800,
           470
         ],
         "न": [
-          38000,
+          37000,
           810
         ],
         "प": [
-          39200,
+          38200,
           627
         ],
         "फ": [
-          40400,
+          39400,
           444
         ],
         "ब": [
-          41600,
+          40600,
           444
         ],
         "भ": [
-          42800,
+          41800,
           522
         ],
         "म": [
-          44000,
+          43000,
           784
         ],
         "य": [
-          45200,
+          44200,
           549
         ],
         "र": [
-          46400,
+          45400,
           496
         ],
         "ल": [
-          47600,
+          46600,
           549
         ],
         "व": [
-          48800,
+          47800,
           522
         ],
         "श": [
-          50000,
+          49000,
           575
         ],
         "ष": [
-          51200,
+          50200,
           601
         ],
         "स": [
-          52400,
+          51400,
           522
         ],
         "ह": [
-          53600,
+          52600,
           496
         ]
       }
@@ -932,8 +1362,8 @@
     "speaker3": {
       "src": "speaker3-sprite.mp3",
       "spriteData": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker3-sprite.json",
-      "totalSounds": 41,
-      "totalDuration": 48.70045351473922,
+      "totalSounds": 46,
+      "totalDuration": 54.6087755102041,
       "sprite": {
         "अ": [
           0,
@@ -961,7 +1391,7 @@
         ],
         "ऋ": [
           7200,
-          397
+          398
         ],
         "ॠ": [
           8400,
@@ -993,7 +1423,7 @@
         ],
         "ख": [
           16800,
-          401
+          402
         ],
         "ग": [
           18000,
@@ -1029,75 +1459,95 @@
         ],
         "ट": [
           27600,
-          421
+          417
         ],
         "ठ": [
           28800,
-          469
+          512
         ],
         "ड": [
           30000,
-          536
+          604
         ],
         "ढ": [
           31200,
-          496
+          584
         ],
         "ण": [
           32400,
+          504
+        ],
+        "त": [
+          33600,
+          421
+        ],
+        "थ": [
+          34800,
+          469
+        ],
+        "द": [
+          36000,
+          536
+        ],
+        "ध": [
+          37200,
+          496
+        ],
+        "न": [
+          38400,
           536
         ],
         "प": [
-          33600,
+          39600,
           473
         ],
         "फ": [
-          34800,
+          40800,
           465
         ],
         "ब": [
-          36000,
+          42000,
           532
         ],
         "भ": [
-          37200,
+          43200,
           560
         ],
         "म": [
-          38400,
+          44400,
           560
         ],
         "य": [
-          39600,
+          45600,
           548
         ],
         "र": [
-          40800,
+          46800,
           508
         ],
         "ल": [
-          42000,
+          48000,
           588
         ],
         "व": [
-          43200,
+          49200,
           552
         ],
         "श": [
-          44400,
+          50400,
           544
         ],
         "ष": [
-          45600,
+          51600,
           544
         ],
         "स": [
-          46800,
+          52800,
           544
         ],
         "ह": [
-          48000,
-          700
+          54000,
+          609
         ]
       }
     },
@@ -1105,7 +1555,7 @@
       "src": "speaker4-sprite.mp3",
       "spriteData": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker4-sprite.json",
       "totalSounds": 49,
-      "totalDuration": 58.30925170068027,
+      "totalDuration": 58.30929705215418,
       "sprite": {
         "अ": [
           0,
@@ -1245,7 +1695,7 @@
         ],
         "फ": [
           40800,
-          713
+          714
         ],
         "ब": [
           42000,
@@ -1277,7 +1727,7 @@
         ],
         "श": [
           50400,
-          637
+          638
         ],
         "ष": [
           51600,
@@ -1293,7 +1743,7 @@
         ],
         "क्ष": [
           55200,
-          811
+          784
         ],
         "त्र": [
           56400,
@@ -1308,8 +1758,8 @@
     "speaker5": {
       "src": "speaker5-sprite.mp3",
       "spriteData": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker5-sprite.json",
-      "totalSounds": 59,
-      "totalDuration": 70.08532879818591,
+      "totalSounds": 58,
+      "totalDuration": 68.88537414965982,
       "sprite": {
         "अ": [
           0,
@@ -1365,7 +1815,7 @@
         ],
         "अं": [
           15600,
-          341
+          342
         ],
         "अः": [
           16800,
@@ -1435,120 +1885,328 @@
           36000,
           521
         ],
-        "ञ": [
-          37200,
-          628
-        ],
         "ट": [
-          38400,
+          37200,
           396
         ],
         "ट2": [
-          39600,
+          38400,
           365
         ],
         "ठ": [
-          40800,
+          39600,
           348
         ],
         "ठ2": [
-          42000,
+          40800,
           459
         ],
         "ड": [
-          43200,
+          42000,
           566
         ],
         "ड2": [
-          44400,
+          43200,
           517
         ],
         "ढ": [
-          45600,
+          44400,
           478
         ],
         "ढ2": [
-          46800,
+          45600,
           579
         ],
         "ण": [
-          48000,
+          46800,
           595
         ],
         "त": [
-          49200,
+          48000,
           477
         ],
         "त2": [
-          50400,
+          49200,
           403
         ],
         "थ": [
-          51600,
+          50400,
           290
         ],
         "थ2": [
-          52800,
+          51600,
           430
         ],
         "द": [
-          54000,
+          52800,
           598
         ],
         "द2": [
-          55200,
+          54000,
           532
         ],
         "ध": [
-          56400,
+          55200,
           556
         ],
         "ध2": [
-          57600,
+          56400,
           555
         ],
         "न": [
-          58800,
-          852
+          57600,
+          850
         ],
         "प": [
-          60000,
+          58800,
           344
         ],
         "प2": [
-          61200,
+          60000,
           354
         ],
         "फ": [
-          62400,
-          255
+          61200,
+          256
         ],
         "फ2": [
-          63600,
+          62400,
           420
         ],
         "ब": [
-          64800,
+          63600,
           482
         ],
         "ब2": [
-          66000,
+          64800,
           510
         ],
         "भ": [
-          67200,
+          66000,
           355
         ],
         "भ2": [
-          68400,
+          67200,
           534
         ],
         "म": [
-          69600,
+          68400,
           485
+        ]
+      }
+    },
+    "speaker6": {
+      "src": "speaker6-sprite.mp3",
+      "spriteData": "/Users/andrew/Development/devanagri/public/assets/sounds/speaker6-sprite.json",
+      "totalSounds": 51,
+      "totalDuration": 60.469682539682545,
+      "sprite": {
+        "अ": [
+          0,
+          490
+        ],
+        "आ": [
+          1200,
+          925
+        ],
+        "इ": [
+          2400,
+          335
+        ],
+        "ई": [
+          3600,
+          924
+        ],
+        "उ": [
+          4800,
+          423
+        ],
+        "ऊ": [
+          6000,
+          865
+        ],
+        "ऋ": [
+          7200,
+          453
+        ],
+        "ॠ": [
+          8400,
+          928
+        ],
+        "ऌ": [
+          9600,
+          517
+        ],
+        "ए": [
+          10800,
+          445
+        ],
+        "ऐ": [
+          12000,
+          920
+        ],
+        "ओ": [
+          13200,
+          490
+        ],
+        "औ": [
+          14400,
+          911
+        ],
+        "अं": [
+          15600,
+          616
+        ],
+        "अः": [
+          16800,
+          535
+        ],
+        "क": [
+          18000,
+          525
+        ],
+        "ख": [
+          19200,
+          654
+        ],
+        "ग": [
+          20400,
+          582
+        ],
+        "घ": [
+          21600,
+          673
+        ],
+        "ङ": [
+          22800,
+          528
+        ],
+        "च": [
+          24000,
+          456
+        ],
+        "छ": [
+          25200,
+          645
+        ],
+        "ज": [
+          26400,
+          492
+        ],
+        "झ": [
+          27600,
+          708
+        ],
+        "ञ": [
+          28800,
+          531
+        ],
+        "ट": [
+          30000,
+          459
+        ],
+        "ठ": [
+          31200,
+          693
+        ],
+        "ड": [
+          32400,
+          488
+        ],
+        "ढ": [
+          33600,
+          661
+        ],
+        "ण": [
+          34800,
+          496
+        ],
+        "त": [
+          36000,
+          485
+        ],
+        "थ": [
+          37200,
+          636
+        ],
+        "द": [
+          38400,
+          530
+        ],
+        "ध": [
+          39600,
+          646
+        ],
+        "न": [
+          40800,
+          474
+        ],
+        "प": [
+          42000,
+          411
+        ],
+        "फ": [
+          43200,
+          611
+        ],
+        "ब": [
+          44400,
+          507
+        ],
+        "भ": [
+          45600,
+          609
+        ],
+        "म": [
+          46800,
+          489
+        ],
+        "य": [
+          48000,
+          685
+        ],
+        "र": [
+          49200,
+          577
+        ],
+        "ल": [
+          50400,
+          740
+        ],
+        "व": [
+          51600,
+          566
+        ],
+        "श": [
+          52800,
+          778
+        ],
+        "ष": [
+          54000,
+          799
+        ],
+        "स": [
+          55200,
+          835
+        ],
+        "ह": [
+          56400,
+          683
+        ],
+        "क्ष": [
+          57600,
+          663
+        ],
+        "त्र": [
+          58800,
+          475
+        ],
+        "ज्ञ": [
+          60000,
+          470
         ]
       }
     }
   },
-  "spritesGenerated": "2025-07-25T16:33:51.934Z"
+  "spritesGenerated": "2025-08-01T07:41:15.522Z"
 }
